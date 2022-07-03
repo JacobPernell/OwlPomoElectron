@@ -1,0 +1,21 @@
+{
+  "name": "pomowldesktop",
+  "version": "1.0.0",
+  "description": "Owl-themed desktop pomodoro timer app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobPernell/OwlPomoElectron.git"
+  },
+  "author": "Jacob Pernell",
+  "bugs": {
+    "url": "https://github.com/JacobPernell/OwlPomoElectron/issues"
+  },
+  "homepage": "https://github.com/JacobPernell/OwlPomoElectron#readme",
+  "devDependencies": {
+    "electron": "^19.0.7"
+  }
+}
