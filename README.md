@@ -1,2 +1,2 @@
-# OwlPomoElectron
-Owl-themed desktop pomodoro app
+# PomOwl - Desktop
+Owl-themed desktop pomodoro app built with Electron
